@@ -1,12 +1,12 @@
 {
-  "name": "angular2-to-do",
+  "name": "recipe-box",
   "description": "",
   "main": "",
   "authors": [
     "Kevin Boyle <papershack@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/lemurriot/angular_set_up",
   "ignore": [
     "**/.*",
     "node_modules",

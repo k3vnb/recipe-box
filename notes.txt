@@ -1,0 +1,2 @@
+Recipes object
+  contain properties - title, ingredients array, directions for preparation
